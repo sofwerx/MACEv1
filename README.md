@@ -3,6 +3,11 @@
 - [Assumptions](#assumptions)
 - [Phases](#phases)
    - [x] [Phase 1: Discovery & Reconnaissance](#current-phase)
+     - Visual Identification of Devices
+     - Network Identification of Devices
+     - RF Identification of Devices
+     - Device Meta-Data
+     - Data Warehousing
    - [ ] Phase 2: Data Ingestion & Capabilities
    - [ ] Phase 3: Employment of Capabilities
 
